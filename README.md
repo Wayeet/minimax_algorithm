@@ -1,4 +1,3 @@
-#Yes
 
 The Minimax algorithm would also work for any other games with finite solutions like chess for example.
 
