@@ -3,8 +3,8 @@ The Minimax algorithm would also work for any other games with finite solutions 
 
 Buuuuuut not in our lifetime:
 
-Tic-Tac-Toe has 255168 possible ways
-Chess has so many, that it can't be calculated with our methods and is currently discribed as the Shannon number (https://en.wikipedia.org/wiki/Shannon_number)
+Tic-Tac-Toe has 255168 possible ways.
+Chess has that many, that it can't be calculated with our methods and is currently discribed as the Shannon number (https://en.wikipedia.org/wiki/Shannon_number)
 
 1	 20  
 2	 400  
